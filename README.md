@@ -1,6 +1,7 @@
+![Front End Web Developer](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/310688066_107273378831903_1358994529342391410_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=0ugvjxBxAOQAX_jWnkR&_nc_ht=scontent.fdac22-1.fna&oh=00_AT-gFgTKqwkwwAovYvyAmCJw0BrKVmsNdwcIdWzNigcqww&oe=6345D101)
 ### Hi  👋, I'm MD Riaz Uddin Ahmmed
 #### Front End Web Developer
-![Front End Web Developer](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/310688066_107273378831903_1358994529342391410_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=0ugvjxBxAOQAX_jWnkR&_nc_ht=scontent.fdac22-1.fna&oh=00_AT-gFgTKqwkwwAovYvyAmCJw0BrKVmsNdwcIdWzNigcqww&oe=6345D101)
+
 
 I am still learning programming languages. such as HTML, CSS, JS, Bootstrap, React, TypeScript.
 I always try to do my work with heart and I consider myself blessed with this job.
