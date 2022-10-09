@@ -6,7 +6,8 @@
 I am still learning programming languages. such as HTML, CSS, JS, Bootstrap, React, TypeScript.
 I always try to do my work with heart and I consider myself blessed with this job.
 
-# 🤹‍♂️ Skills: 
+# 💻 Skills: 
+<hr>
 REACT / JS / HTML / CSS Still Learnig
 
 - 👯 I’m looking to collaborate on GitHub 
